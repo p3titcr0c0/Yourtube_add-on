@@ -1,4 +1,5 @@
 console.log("demarrage addon");
+console.log(document.getElementsById("montrucspecial"));
 
 
 function myFunction() {
