@@ -12,7 +12,7 @@
 	"content_scripts" : [
 		{
 			"matches" : ["*://*.youtube.com/*"],
-			"js" : ["script.js"]
+			"js" : ["background.js"]
 		}
 	],
 

@@ -1,3 +1,5 @@
+'use strict';
+
 console.log("demarrage addon");
 console.log(document.getElementsById("montrucspecial"));
 
